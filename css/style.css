@@ -15,7 +15,7 @@ code, pre{
 font-size: 11pt;
 }
 .okheadnav {
-font-family: sans-serif;
+font-family: Verdana;
 color: #fff;
 display: none;
 text-align: center;
@@ -55,7 +55,7 @@ body {
 padding-top: 50pt;
 background-color: #fff;
 color: #000;
-font-family: sans-serif;
+font-family: Verdana;
 font-size: 11pt;
 }
 .top {
